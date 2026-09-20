@@ -1,8 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════
   README PROFIL GITHUB — NATSUKI SUBARU (RE:ZERO THEME)
-  1. Buat repo bernama persis username GitHub kamu (publik)
+  1. Buat repo bernama persis Leviurfr GitHub kamu (publik)
   2. Simpan file ini sebagai README.md di repo itu
-  3. Ganti semua USERNAME → username GitHub kamu
+  3. Ganti semua Leviurfr → Leviurfr GitHub kamu
   4. (Opsional) Ular kontribusi: tambah GitHub Action platane/snk
      (lihat bagian bawah file ini)
 ═══════════════════════════════════════════════════════════════ -->
@@ -40,9 +40,9 @@
 
 <!-- ═══════ 5. TROFI + PENONTON ═══════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?Leviurfr=Leviurfr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&left_color=0d1117&right_color=00f0ff" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leviurfr.Leviurfr&left_color=0d1117&right_color=00f0ff" alt="Visitors" />
 </div>
 
 <br/>
@@ -91,17 +91,17 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=e8f0f2" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a78bfa&currStreakLabel=00f0ff" alt="Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?Leviurfr=Leviurfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=e8f0f2" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Leviurfr&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a78bfa&currStreakLabel=00f0ff" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e8f0f2" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Leviurfr=Leviurfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e8f0f2" alt="Top Langs" />
   <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=00f0ff&line=a78bfa&point=e8f0f2&hide_border=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?Leviurfr=Leviurfr&bg_color=0d1117&color=00f0ff&line=a78bfa&point=e8f0f2&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- ═══════ 6. ULAR KONTRIBUSI (animasi snake) ═══════
      Cara aktifkan:
-     1. Di repo username kamu → Actions → New workflow
+     1. Di repo Leviurfr kamu → Actions → New workflow
      2. Pilih "Simple workflow", isi dengan:
 
      name: Snake
@@ -114,7 +114,7 @@
          steps:
            - uses: Platane/snk@v3
              with:
-               github_user_name: USERNAME
+               github_user_name: Leviurfr
                outputs: dist/snake.svg?palette=github-dark
            - uses: crazy-max/ghaction-github-pages@v3
              with:
@@ -130,9 +130,9 @@
 <!--
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 -->
