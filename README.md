@@ -1,20 +1,23 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:1a0505,75:4a0000,100:8b0000&height=280&section=header&text=Grey%20Ash&fontSize=70&fontColor=ff3131&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%2F%2F%20Indonesia&descAlignY=60&descSize=16&descColor=6b7fd7&stroke=ff3131&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,40:2b0000,75:6b0000,100:b3001b&height=300&section=header&text=Grey%20Ash&fontSize=75&fontColor=e60012&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%2F%2F%20Indonesia&descAlignY=58&descSize=16&descColor=7a1f1f&stroke=e60012&strokeWidth=2" width="100%"/>
 </div>
 
+<!-- ═══════════════ HERO GIF ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=FF3131&center=true&vCenter=true&width=620&lines=%24+whoami+→+Grey+Ash;Crafting+interfaces+with+React+%2B+TypeScript;Dark+theme+is+not+a+choice.+It's+life.;Fun+fact%3A+I+think+I'm+thinking." alt="typing"/>
+  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAd/subaru.gif" width="220" style="border-radius:50%"/>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=e60012&center=true&vCenter=true&width=640&lines=%24+whoami+→+Grey+Ash;Return+by+Death+%F0%9F%91%81;Crafting+interfaces+with+React+%2B+TypeScript;I+love+Emilia...+%26+dark+themes." alt="typing"/>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leviurfr&label=VISITORS&color=8b0000&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Leviurfr&label=VISITORS&color=6b0000&style=flat-square"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=ff3131"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0d0000?style=flat-square&logo=linkedin&logoColor=e60012"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_STATUS-CODING-0a0a0f?style=flat-square&labelColor=8b0000&color=1a237e"/>
+  <img src="https://img.shields.io/badge/⚡_AUTHORITY-ENVY-0d0000?style=flat-square&labelColor=6b0000&color=2b0000"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -39,21 +42,28 @@
 
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leviurfr&show_icons=true&bg_color=0a0a0f&title_color=ff3131&text_color=e8e8e8&icon_color=3949ab&border_color=8b0000&border_radius=8&hide=issues&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviurfr&layout=compact&bg_color=0a0a0f&title_color=ff3131&text_color=e8e8e8&border_color=8b0000&border_radius=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leviurfr&show_icons=true&bg_color=0d0000&title_color=e60012&text_color=d9d9d9&icon_color=8b0000&border_color=6b0000&border_radius=8&hide=issues&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviurfr&layout=compact&bg_color=0d0000&title_color=e60012&text_color=d9d9d9&border_color=6b0000&border_radius=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Leviurfr&background=0a0a0f&border=8b0000&stroke=3949ab&ring=ff3131&fire=ff3131&currStreakNum=ffffff&sideNums=e8e8e8&currStreakLabel=ff3131&sideLabels=6b7fd7&dates=6b6b6b" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Leviurfr&background=0d0000&border=6b0000&stroke=8b0000&ring=e60012&fire=e60012&currStreakNum=ffffff&sideNums=d9d9d9&currStreakLabel=e60012&sideLabels=7a1f1f&dates=5c5c5c" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leviurfr&bg_color=0a0a0f&color=ff3131&line=8b0000&point=3949ab&area=true&area_color=1a237e&hide_border=false&border_color=8b0000" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leviurfr&bg_color=0d0000&color=e60012&line=6b0000&point=e60012&area=true&area_color=2b0000&border_color=6b0000" width="95%"/>
 </div>
 
 <!-- ═══════════════ TROPHY ═══════════════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leviurfr&theme=dracula&no-frame=true&margin-w=12&column=7&title_color=ff3131"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Leviurfr&theme=dracula&no-frame=true&margin-w=12&column=7&title_color=e60012"/>
+</div>
+
+<br>
+
+<!-- ═══════════════ PROFILE GIF KEDUA ═══════════════ -->
+<div align="center">
+  <img src="https://media1.tenor.com/m/Bmp1F9s5EqgAAAAd/envy-jealous-of-you.gif" width="180"/>
 </div>
 
 <br>
@@ -66,5 +76,5 @@
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a237e,100:8b0000&height=140&section=footer&text=Grey%20Ash%20©%202026&fontSize=20&fontColor=ff3131&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:6b0000,100:b3001b&height=150&section=footer&text=Grey%20Ash%20©%202026&fontSize=20&fontColor=e60012&animation=fadeIn"/>
 </div>
