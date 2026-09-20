@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════
   README PROFIL GITHUB — NATSUKI SUBARU (RE:ZERO THEME)
-  1. Buat repo bernama persis Leviurfr GitHub kamu (publik)
+  1. Buat repo bernama persis username GitHub kamu (publik)
   2. Simpan file ini sebagai README.md di repo itu
-  3. Ganti semua Leviurfr → Leviurfr GitHub kamu
-  4. (Opsional) Ular kontribusi: tambah GitHub Action platane/snk
-     (lihat bagian bawah file ini)
+  3. Ganti semua USERNAME → username GitHub kamu
+  4. (Opsional) Ular kontribusi & kalender 3D: tambah GitHub Action
+     (instruksi ada di komentar di setiap bagian)
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════ 1. BANNER GIF (foto sampul) ═══════ -->
@@ -29,41 +29,43 @@
 
 <br/>
 
-<!-- ═══════ 4. BADGES ═══════ -->
+<!-- ═══════ 4. BADGES ═══════
+     ⚠️ PENTING: warna di shields.io TANPA tanda # (bukan #00ff0f, tapi 00ff0f)
+     pakai # akan memunculkan "404 badge not found" -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Streak-Sangat%20Aktif-#00ff0f?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streak-Sangat%20Aktif-00ff0f?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Witch%20of-Greed-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Front-End-Developer-#00ff0f?style=for-the-badge&logo=stackshare&logoColor=black" />
+  <img src="https://img.shields.io/badge/Front--End-Developer-00ff0f?style=for-the-badge&logo=stackshare&logoColor=black" />
 </div>
 
 <br/>
 
 <!-- ═══════ 5. TROFI + PENONTON ═══════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?Leviurfr=Leviurfr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leviurfr.Leviurfr&left_color=0d1117&right_color=00f0ff" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&left_color=0d1117&right_color=00f0ff" alt="Visitors" />
 </div>
 
 <br/>
 
 ---
 
-##  Tentang Saya
+## 🦋 Tentang Saya
 
 > Halo! Saya **Natsuki Subaru** dari dunia coding. Filosofi saya sederhana:
 > **gagal, belajar, ulangi** — persis seperti kemampuan *Return by Death*.
-> Setiap bug adalah kesempatan untuk menjadi lebih kuan
+> Setiap bug adalah kesempatan untuk menjadi lebih kuat
 
-- Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
-- Sedang belajar **Rust** & **CyberSecurity**
-- Terbuka untuk kolaborasi **open-source**
-- Tanya saya tentang **JavaScript, Python, React, Linux**
-- Fun fact: *"Satu kali gagal = satu checkpoint baru"* ♾️
+- 🔭 Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
+- 🌱 Sedang belajar **Rust** & **CyberSecurity**
+- 👯 Terbuka untuk kolaborasi **open-source**
+- 💬 Tanya saya tentang **JavaScript, Python, React, Linux**
+- ⚡ Fun fact: *"Satu kali gagal = satu checkpoint baru"* ♾️
 
 ---
 
-##  Keahlian
+## ⚡ Keahlian
 
 <div align="center">
 
@@ -78,7 +80,7 @@
 
 ---
 
-## Proyek Unggulan
+## 🏆 Proyek Unggulan
 
 | # | Proyek | Deskripsi | Stack |
 | :--- | :--- | :--- | :--- |
@@ -88,10 +90,20 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=e8f0f2" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a78bfa&currStreakLabel=00f0ff" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e8f0f2" alt="Top Langs" />
+  <br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=00f0ff&line=a78bfa&point=e8f0f2&hide_border=true" alt="Activity Graph" />
+</div>
+
 <!-- ═══════ 6. ULAR KONTRIBUSI (animasi snake) ═══════
      Cara aktifkan:
-     1. Di repo Leviurfr kamu → Actions → New workflow
-     2. Pilih "Simple workflow", isi dengan:
+     1. Di repo USERNAME kamu → Actions → New workflow → pilih "Simple workflow", isi:
 
      name: Snake
      on:
@@ -103,7 +115,7 @@
          steps:
            - uses: Platane/snk@v3
              with:
-               github_user_name: Leviurfr
+               github_user_name: USERNAME
                outputs: dist/snake.svg?palette=github-dark
            - uses: crazy-max/ghaction-github-pages@v3
              with:
@@ -112,23 +124,21 @@
              env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
----
-
-     3. Komentar berikut dibuka
+     2. Hapus komentar blok <picture> di bawah
 ══════════════════════════════════════════════ -->
 <!--
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 -->
 
 ---
 
-## Quote of the Day
+## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -136,10 +146,110 @@
 
 ---
 
+<!-- ═══════ 7. BAGIAN BARU: GIF RETURN BY DEATH ═══════
+     ⚠️ Pakai link media langsung (media1.tenor.com/m/...),
+     BUKAN link halaman tenor.com/view/... (itu halaman web, bukan gambar) -->
+## ♾️ Return by Death
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAd/subaru.gif" width="480" alt="Subaru Return by Death" />
+  <br/>
+  <i>「もう一度、やり直す」— Kegagalan hanyalah checkpoint baru.</i>
+</div>
+
+---
+
+<!-- ═══════ 8. BAGIAN BARU: SPOTIFY NOW PLAYING ═══════
+     (Animasi live — lagu yang sedang kamu putar)
+     Cara aktifkan (pilih salah satu):
+     A. Fork https://github.com/novatorem/novatorem lalu deploy ke Vercel
+        (butuh Spotify API token, panduan ada di repo itu), lalu
+        ganti USERNAME di URL bawah → nama Vercel app kamu.
+     B. Alternatif tanpa deploy: buka blok komentar "spotify-github-profile"
+        di bawah, fork https://github.com/kittinan/spotify-github-profile
+        dan ikuti panduannya.
+     Jika belum disetup, blok komentar biarkan tertutup. -->
+<div align="center">
+
+### 🎵 Now Playing
+
+<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00f0ff" alt="Spotify Now Playing" />
+
+<!--
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f0ff&bar_color_cover=false" alt="Spotify" />
+-->
+
+</div>
+
+---
+
+<!-- ═══════ 9. BAGIAN BARU: KALENDER KONTRIBUSI 3D ═══════
+     (Animasi 3D penuh — pemandangan kota dari kontribusimu!)
+     Cara aktifkan:
+     1. Di repo USERNAME → Actions → New workflow → "Simple workflow", isi:
+
+     name: 3D Contrib
+     on:
+       schedule: [{cron: "0 0 * * *"}]
+       workflow_dispatch:
+     jobs:
+       build:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: actions/checkout@v3
+           - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+               USERNAME: ${{ github.repository_owner }}
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output-3d
+               build_dir: profile-3d-contrib
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     2. Ganti cabang "output" pada blok di bawah → "output-3d"
+     3. Hapus komentar blok <picture> di bawah
+══════════════════════════════════════════════ -->
+<div align="center">
+
+### 🏙️ Kota Kontribusi 3D
+
+<!--
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output-3d/profile-night-rainbow.svg" alt="3D Contrib" width="90%" />
+-->
+
+</div>
+
+---
+
+<!-- ═══════ 10. BAGIAN BARU: DASHBOARD METRICS (penuh animasi) ═══════
+     "Halaman" baru berisi banyak animasi: habits, achievements,
+     notable contributions, langs, stars, code habits, dll.
+     Cara aktifkan:
+     1. Fork https://github.com/lowlighter/metrics
+     2. Di repo hasil fork → Settings → Secrets → New secret:
+        METRICS_TOKEN = Personal Access Token (scope: repo, read:user)
+     3. Jalankan action "Metrics" sekali — akan membuat branch
+        metrics-renders dengan metrics.svg
+     4. Hapus komentar blok <img> di bawah
+══════════════════════════════════════════════ -->
+<div align="center">
+
+### 📊 Dashboard Metrics
+
+<!--
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/metrics.svg" alt="Metrics" width="95%" />
+-->
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAC/subaru.gif" width="120" alt="Subaru" />
   <br/><br/>
-  <a href="https://github.com/Leviurfr"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-#00ff0f?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-00ff0f?style=for-the-badge&logo=github&logoColor=black" /></a>
   <br/><br/>
   <i>Created By "Return by Death" — © 2026 Grey A</i>
 </div>
