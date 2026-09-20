@@ -1,255 +1,87 @@
-<!-- ═══════════════════════════════════════════════════════════════
-  README PROFIL GITHUB — NATSUKI SUBARU (RE:ZERO THEME)
-  1. Buat repo bernama persis username GitHub kamu (publik)
-  2. Simpan file ini sebagai README.md di repo itu
-  3. Ganti semua USERNAME → username GitHub kamu
-  4. (Opsional) Ular kontribusi & kalender 3D: tambah GitHub Action
-     (instruksi ada di komentar di setiap bagian)
-═══════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════ 1. BANNER GIF (foto sampul) ═══════ -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/r2T4TteFa9IAAAAC/echidna-greed.gif" width="100%" alt="Echidna Banner" />
-</div>
-
-<br/>
-
-<!-- ═══════ 2. FOTO PROFIL + NAMA ═══════ -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAC/subaru.gif" width="190" alt="Subaru Avatar" style="border-radius:50%" />
-</div>
-
-<h1 align="center">✦ ナツキ・スバル — NATSUKI SUBARU ✦</h1>
-<h3 align="center">「死に戻り」Return by Death 🦋</h3>
-
-<!-- ═══════ 3. TYPING ANIMATION (teks mengetik-hapus) ═══════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&width=560&lines=Front-End+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Gagal+%E2%86%92+Belajar+%E2%86%92+Ulangi+%E2%99%BE%EF%B8%8F;Witch+of+Greed+%F0%9F%A6%8B;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- ═══════ 4. BADGES ═══════
-     ⚠️ PENTING: warna di shields.io TANPA tanda # (bukan #00ff0f, tapi 00ff0f)
-     pakai # akan memunculkan "404 badge not found" -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Streak-Sangat%20Aktif-00ff0f?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Witch%20of-Greed-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Front--End-Developer-00ff0f?style=for-the-badge&logo=stackshare&logoColor=black" />
-</div>
-
-<br/>
-
-<!-- ═══════ 5. TROFI + PENONTON ═══════ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&left_color=0d1117&right_color=00f0ff" alt="Visitors" />
-</div>
-
-<br/>
-
----
-
-## 🦋 Tentang Saya
-
-> Halo! Saya **Natsuki Subaru** dari dunia coding. Filosofi saya sederhana:
-> **gagal, belajar, ulangi** — persis seperti kemampuan *Return by Death*.
-> Setiap bug adalah kesempatan untuk menjadi lebih kuat
-
-- 🔭 Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
-- 🌱 Sedang belajar **Rust** & **CyberSecurity**
-- 👯 Terbuka untuk kolaborasi **open-source**
-- 💬 Tanya saya tentang **JavaScript, Python, React, Linux**
-- ⚡ Fun fact: *"Satu kali gagal = satu checkpoint baru"* ♾️
-
----
-
-## ⚡ Keahlian
-
-<div align="center">
-
-| Bahasa & Framework | Tools & Platform |
-| :--- | :--- |
-| ![JS](https://img.shields.io/badge/JavaScript-95%25-00f0ff?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-GitHub-a78bfa?style=flat-square&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-90%25-00f0ff?style=flat-square&logo=python&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-Arch-0d1117?style=flat-square&logo=archlinux&logoColor=00f0ff) |
-| ![React](https://img.shields.io/badge/React%2FNext.js-88%25-00f0ff?style=flat-square&logo=react&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-75%25-a78bfa?style=flat-square&logo=docker&logoColor=white) |
-| ![Node](https://img.shields.io/badge/Node.js-85%25-00f0ff?style=flat-square&logo=nodedotjs&logoColor=black) | ![AWS](https://img.shields.io/badge/Cloud-AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00f0ff) |
-
-</div>
-
----
-
-## 🏆 Proyek Unggulan
-
-| # | Proyek | Deskripsi | Stack |
-| :--- | :--- | :--- | :--- |
-| 01 | **RETURN-BY-DEATH** | Bug tracker cerdas dengan AI — menganalisis error log & saran perbaikan real-time | `Python` `FastAPI` `AI` |
-| 02 | **WITCH'S CULT** | Platform komunitas open-source: forum, live chat, reputasi berbasis GitHub | `React` `WebSocket` `PostgreSQL` |
-| 03 | **GREED AUTHORITY** | CLI produktivitas developer: scaffold, auto-commit, deploy otomatis | `Node.js` `CLI` `Docker` |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=e8f0f2" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a78bfa&currStreakLabel=00f0ff" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e8f0f2" alt="Top Langs" />
-  <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=00f0ff&line=a78bfa&point=e8f0f2&hide_border=true" alt="Activity Graph" />
-</div>
-
-<!-- ═══════ 6. ULAR KONTRIBUSI (animasi snake) ═══════
-     Cara aktifkan:
-     1. Di repo USERNAME kamu → Actions → New workflow → pilih "Simple workflow", isi:
-
-     name: Snake
-     on:
-       schedule: [{cron: "0 0 * * *"}]
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: USERNAME
-               outputs: dist/snake.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     2. Hapus komentar blok <picture> di bawah
-══════════════════════════════════════════════ -->
 <!--
-<div align="center">
+  Profil GitHub: Natsuki Subaru (tema Re:Zero).
+  Langkah pemasangan ada di SETUP.md. Cari-ganti semua "USERNAME" dengan username GitHub kamu.
+-->
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/r2T4TteFa9IAAAAd/echidna-greed.gif" width="34%" alt="Echidna, Witch of Greed" />
+  <img src="assets/clock.svg" width="32%" alt="Jam yang berputar mundur" />
+  <!--
+    Subaru: versi kecil (165x255) agar lolos batas ukuran proxy gambar GitHub.
+    GIF HD dari Tenor (PQU7YOav7pQAAAAd) sekitar 36 MB dan kemungkinan besar tidak akan tampil.
+    Untuk kualitas lebih tajam: kompres GIF-nya sampai di bawah 5 MB, simpan sebagai assets/subaru.gif,
+    lalu ganti src di bawah menjadi "assets/subaru.gif".
+  -->
+  <img src="https://media.tenor.com/PQU7YOav7pQAAAAM/subaru.gif" width="30%" alt="Natsuki Subaru" />
+</p>
+
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Natsuki Subaru, Front-End Developer" />
+</p>
+
+<p align="center">
+  <img src="assets/dialogue.svg" width="100%" alt="Percakapan Echidna dan Subaru: Subaru mengejar antarmuka yang terasa hidup dan selalu kembali ke checkpoint terakhir saat gagal" />
+</p>
+
+<img src="assets/h-tentang.svg" width="100%" alt="Tentang" />
+
+Saya membangun antarmuka web dengan fokus pada gerak: animasi, transisi, dan detail kecil yang membuat halaman terasa hidup. Filosofi saya sederhana: **gagal, belajar, ulangi**, seperti kemampuan *Return by Death*. Setiap bug adalah kesempatan untuk menjadi lebih kuat.
+
+- Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
+- Sedang belajar **Rust** dan **CyberSecurity**
+- Terbuka untuk kolaborasi **open-source**
+- Tanya saya tentang **JavaScript, Python, React, Linux**
+- Prinsip: *satu kali gagal berarti satu checkpoint baru*
+
+<img src="assets/h-stack.svg" width="100%" alt="Stack" />
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Bahasa dan framework: JavaScript, Python, React, Next.js, Node.js. Tools dan platform: Git, GitHub, Linux (Arch), Docker, AWS. Sedang dipelajari: Rust dan CyberSecurity." />
+</p>
+
+<img src="assets/h-proyek.svg" width="100%" alt="Proyek" />
+
+<!-- Ganti nama, deskripsi, dan tag proyek di build_assets.py (fungsi build_card), lalu jalankan: python3 build_assets.py -->
+<p align="center">
+  <a href="https://github.com/USERNAME/return-by-death"><img src="assets/card-1.svg" width="100%" alt="Return-by-Death: bug tracker cerdas berbasis AI. Python, FastAPI, AI." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/USERNAME/witchs-cult"><img src="assets/card-2.svg" width="100%" alt="Witch's Cult: platform komunitas open-source. React, WebSocket, PostgreSQL." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/USERNAME/greed-authority"><img src="assets/card-3.svg" width="100%" alt="Greed Authority: CLI produktivitas untuk developer. Node.js, CLI, Docker." /></a>
+</p>
+
+<img src="assets/h-statistik.svg" width="100%" alt="Statistik" />
+
+<!-- assets/stats.svg dibuat otomatis oleh workflow "Profil" (lihat SETUP.md). -->
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="Statistik GitHub: kontribusi, commit, pull request, issue, streak, dan bahasa pemrograman terbanyak" />
+</p>
+
+<img src="assets/h-kontribusi.svg" width="100%" alt="Kontribusi" />
+
+<!-- Ular kontribusi dan kalender 3D muncul setelah workflow "Profil" dijalankan sekali. -->
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" width="100%" alt="Ular yang memakan grafik kontribusi GitHub" />
   </picture>
-</div>
--->
+</p>
 
----
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Kalender kontribusi GitHub dalam bentuk kota 3D" />
+</p>
 
-## 💬 Quote of the Day
+<img src="assets/h-loop.svg" width="100%" alt="Return by Death" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: build gagal, kembali ke commit terakhir yang sehat, lalu build berhasil" />
+</p>
 
----
+<p align="center"><i>「もう一度、やり直す」 Kegagalan hanyalah checkpoint baru.</i></p>
 
-<!-- ═══════ 7. BAGIAN BARU: GIF RETURN BY DEATH ═══════
-     ⚠️ Pakai link media langsung (media1.tenor.com/m/...),
-     BUKAN link halaman tenor.com/view/... (itu halaman web, bukan gambar) -->
-## ♾️ Return by Death
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAd/subaru.gif" width="480" alt="Subaru Return by Death" />
-  <br/>
-  <i>「もう一度、やり直す」— Kegagalan hanyalah checkpoint baru.</i>
-</div>
-
----
-
-<!-- ═══════ 8. BAGIAN BARU: SPOTIFY NOW PLAYING ═══════
-     (Animasi live — lagu yang sedang kamu putar)
-     Cara aktifkan (pilih salah satu):
-     A. Fork https://github.com/novatorem/novatorem lalu deploy ke Vercel
-        (butuh Spotify API token, panduan ada di repo itu), lalu
-        ganti USERNAME di URL bawah → nama Vercel app kamu.
-     B. Alternatif tanpa deploy: buka blok komentar "spotify-github-profile"
-        di bawah, fork https://github.com/kittinan/spotify-github-profile
-        dan ikuti panduannya.
-     Jika belum disetup, blok komentar biarkan tertutup. -->
-<div align="center">
-
-### 🎵 Now Playing
-
-<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00f0ff" alt="Spotify Now Playing" />
-
-<!--
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f0ff&bar_color_cover=false" alt="Spotify" />
--->
-
-</div>
-
----
-
-<!-- ═══════ 9. BAGIAN BARU: KALENDER KONTRIBUSI 3D ═══════
-     (Animasi 3D penuh — pemandangan kota dari kontribusimu!)
-     Cara aktifkan:
-     1. Di repo USERNAME → Actions → New workflow → "Simple workflow", isi:
-
-     name: 3D Contrib
-     on:
-       schedule: [{cron: "0 0 * * *"}]
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v3
-           - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-               USERNAME: ${{ github.repository_owner }}
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output-3d
-               build_dir: profile-3d-contrib
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     2. Ganti cabang "output" pada blok di bawah → "output-3d"
-     3. Hapus komentar blok <picture> di bawah
-══════════════════════════════════════════════ -->
-<div align="center">
-
-### 🏙️ Kota Kontribusi 3D
-
-<!--
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output-3d/profile-night-rainbow.svg" alt="3D Contrib" width="90%" />
--->
-
-</div>
-
----
-
-<!-- ═══════ 10. BAGIAN BARU: DASHBOARD METRICS (penuh animasi) ═══════
-     "Halaman" baru berisi banyak animasi: habits, achievements,
-     notable contributions, langs, stars, code habits, dll.
-     Cara aktifkan:
-     1. Fork https://github.com/lowlighter/metrics
-     2. Di repo hasil fork → Settings → Secrets → New secret:
-        METRICS_TOKEN = Personal Access Token (scope: repo, read:user)
-     3. Jalankan action "Metrics" sekali — akan membuat branch
-        metrics-renders dengan metrics.svg
-     4. Hapus komentar blok <img> di bawah
-══════════════════════════════════════════════ -->
-<div align="center">
-
-### 📊 Dashboard Metrics
-
-<!--
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/metrics.svg" alt="Metrics" width="95%" />
--->
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAC/subaru.gif" width="120" alt="Subaru" />
-  <br/><br/>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-00ff0f?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <br/><br/>
-  <i>Created By "Return by Death" — © 2026 Grey A</i>
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Created by Return by Death. 2026 Grey A" />
+</p>
