@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" width="1000" height="176" role="img" aria-label="Return-by-Death: Bug tracker cerdas berbasis AI. Menganalisis error log dan memberi saran perbaikan secara real-time.">
+<title>Return-by-Death: Bug tracker cerdas berbasis AI. Menganalisis error log dan memberi saran perbaikan secara real-time.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10141f"/><stop offset="1" stop-color="#080a10"/></linearGradient>
+<linearGradient id="sw" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="176"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="999" height="175" rx="16" fill="url(#bg)" stroke="#1f2637"/>
+<rect x="1" y="1" width="998" height="174" rx="15" fill="none" stroke="url(#sw)" stroke-width="2" stroke-linecap="round" pathLength="100" stroke-dasharray="10 90"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="9s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="40" y="68" font-family="Georgia,'Times New Roman','Noto Serif','DejaVu Serif',serif" font-size="36" font-weight="700" fill="#e8f0f2">Return-by-Death</text>
+<line x1="440" y1="34" x2="440" y2="142" stroke="#1f2637"/>
+<text x="474" y="68" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans','DejaVu Sans',sans-serif" font-size="23" fill="#b4bfd1">Bug tracker cerdas berbasis AI.</text>
+<text x="474" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans','DejaVu Sans',sans-serif" font-size="23" fill="#b4bfd1">Menganalisis error log dan memberi</text>
+<text x="474" y="136" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans','DejaVu Sans',sans-serif" font-size="23" fill="#b4bfd1">saran perbaikan secara real-time.</text>
+<rect x="40" y="106" width="91.2" height="36" rx="18" fill="#141a2a" stroke="#2a3348"/><text x="85.6" y="130" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="17" fill="#b4bfd1">Python</text>
+<rect x="141.2" y="106" width="101.4" height="36" rx="18" fill="#141a2a" stroke="#2a3348"/><text x="191.9" y="130" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="17" fill="#b4bfd1">FastAPI</text>
+<rect x="252.6" y="106" width="50.4" height="36" rx="18" fill="#141a2a" stroke="#2a3348"/><text x="277.8" y="130" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="17" fill="#b4bfd1">AI</text>
+</svg>

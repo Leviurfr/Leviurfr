@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="1000" height="60" role="img" aria-label="Statistik">
+<title>Statistik</title>
+<defs>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".6" stop-color="#00f0ff" stop-opacity=".9"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#10141f"/><stop offset="1" stop-color="#0e1119"/></linearGradient>
+<clipPath id="ln"><rect x="213.8" y="25" width="762.2" height="10"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="999" height="59" rx="12" fill="url(#bg)" stroke="#1f2637"/>
+<rect x="18" y="16" width="4" height="28" rx="2" fill="#00f0ff"/>
+<text x="36" y="40" font-family="Georgia,'Times New Roman','Noto Serif','DejaVu Serif',serif" font-size="30" font-weight="700" fill="#e8f0f2" textLength="145.8" lengthAdjust="spacing">Statistik</text>
+<rect x="213.8" y="29.5" width="762.2" height="1" fill="#1f2637"/>
+<g clip-path="url(#ln)"><rect x="53.8" y="28.75" width="160" height="2.5" fill="url(#sw)"><animate attributeName="x" values="53.8;976" dur="9s" begin="-5.1s" repeatCount="indefinite"/></rect></g>
+</svg>
