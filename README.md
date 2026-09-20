@@ -1,13 +1,12 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,40:2b0000,75:6b0000,100:b3001b&height=300&section=header&text=Grey%20Ash&fontSize=75&fontColor=e60012&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%2F%2F%20Indonesia&descAlignY=58&descSize=16&descColor=7a1f1f&stroke=e60012&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,40:2b0000,75:6b0000,100:b3001b&height=220&section=header&animation=fadeIn&stroke=e60012&strokeWidth=1" width="100%"/>
+  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAd/subaru.gif" width="250"/>
 </div>
 
-<!-- ═══════════════ HERO GIF ═══════════════ -->
+<!-- ═══════════════ TYPING ═══════════════ -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAd/subaru.gif" width="220" style="border-radius:50%"/>
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=e60012&center=true&vCenter=true&width=640&lines=%24+whoami+→+Grey+Ash;Return+by+Death+%F0%9F%91%81;Crafting+interfaces+with+React+%2B+TypeScript;I+love+Emilia...+%26+dark+themes." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=e60012&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Grey+Ash;Return+by+Death+%F0%9F%91%81;Frontend+Developer+%2F%2F+Indonesia;Crafting+interfaces+with+React+%2B+TypeScript" alt="typing"/>
 </div>
 
 <br>
@@ -57,13 +56,6 @@
 <!-- ═══════════════ TROPHY ═══════════════ -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leviurfr&theme=dracula&no-frame=true&margin-w=12&column=7&title_color=e60012"/>
-</div>
-
-<br>
-
-<!-- ═══════════════ PROFILE GIF KEDUA ═══════════════ -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/Bmp1F9s5EqgAAAAd/envy-jealous-of-you.gif" width="180"/>
 </div>
 
 <br>
