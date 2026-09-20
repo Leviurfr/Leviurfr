@@ -24,7 +24,7 @@
 
 <!-- ═══════ 3. TYPING ANIMATION (teks mengetik-hapus) ═══════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Gagal+%E2%86%92+Belajar+%E2%86%92+Ulangi+%E2%99%BE%EF%B8%8F;Witch+of+Greed+%F0%9F%A6%8B;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&width=560&lines=Front-End+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Gagal+%E2%86%92+Belajar+%E2%86%92+Ulangi+%E2%99%BE%EF%B8%8F;Witch+of+Greed+%F0%9F%A6%8B;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
 <br/>
