@@ -34,18 +34,6 @@ Prinsip: satu kali gagal berarti satu checkpoint baru
 <img src="assets/h-statistik.svg" width="100%" alt="Statistik" />
 <p align="center">
   <img src="assets/stats.svg" width="100%" alt="Statistik GitHub: kontribusi, commit, pull request, issue, streak, dan bahasa pemrograman terbanyak" />
-</p>
-<img src="assets/h-kontribusi.svg" width="100%" alt="Kontribusi" />
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" width="100%" alt="Ular yang memakan grafik kontribusi GitHub" />
-  </picture>
-</p>
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Kalender kontribusi GitHub dalam bentuk kota 3D" />
-</p>
 <img src="assets/h-loop.svg" width="100%" alt="Return by Death" />
 <p align="center">
   <img src="assets/terminal.svg" width="100%" alt="Terminal: build gagal, kembali ke commit terakhir yang sehat, lalu build berhasil" />
