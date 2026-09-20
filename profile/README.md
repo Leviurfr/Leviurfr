@@ -31,9 +31,9 @@
 
 <!-- ═══════ 4. BADGES ═══════ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Streak-Sangat%20Aktif-00f0ff?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streak-Sangat%20Aktif-#00ff0f?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Witch%20of-Greed-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-00f0ff?style=for-the-badge&logo=stackshare&logoColor=black" />
+  <img src="https://img.shields.io/badge/Front-End-Developer-#00ff0f?style=for-the-badge&logo=stackshare&logoColor=black" />
 </div>
 
 <br/>
