@@ -1,5 +1,5 @@
 <!--
-  Profil GitHub: Natsuki Subaru (tema Re:Zero).
+  Profil GitHub: Muhammad Fahlevi (tema Re:Zero).
   Langkah pemasangan ada di SETUP.md. Cari-ganti semua "Leviurfr" dengan Leviurfr GitHub kamu.
 -->
 
@@ -12,11 +12,11 @@
     Untuk kualitas lebih tajam: kompres GIF-nya sampai di bawah 5 MB, simpan sebagai assets/subaru.gif,
     lalu ganti src di bawah menjadi "assets/subaru.gif".
   -->
-  <img src="https://media.tenor.com/PQU7YOav7pQAAAAM/subaru.gif" width="30%" alt="Natsuki Subaru" />
+  <img src="https://media.tenor.com/PQU7YOav7pQAAAAM/subaru.gif" width="30%" alt="Muhammad Fahlevi" />
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Natsuki Subaru, Front-End Developer" />
+  <img src="assets/hero.svg" width="100%" alt="Muhammad Fahlevi, Front-End Developer" />
 </p>
 
 <p align="center">
