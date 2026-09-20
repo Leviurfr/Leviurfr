@@ -88,17 +88,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?Leviurfr=Leviurfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=e8f0f2" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Leviurfr&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a78bfa&currStreakLabel=00f0ff" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Leviurfr=Leviurfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e8f0f2" alt="Top Langs" />
-  <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?Leviurfr=Leviurfr&bg_color=0d1117&color=00f0ff&line=a78bfa&point=e8f0f2&hide_border=true" alt="Activity Graph" />
-</div>
-
 <!-- ═══════ 6. ULAR KONTRIBUSI (animasi snake) ═══════
      Cara aktifkan:
      1. Di repo Leviurfr kamu → Actions → New workflow
@@ -143,14 +132,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-
-## 🃏 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300f0ff&aColor=%23a78bfa&borderColor=%2300f0ff&qColor=%23e8f0f2" alt="Joke" />
 </div>
 
 ---
