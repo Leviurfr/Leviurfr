@@ -13,7 +13,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "assets")
 os.makedirs(OUT, exist_ok=True)
 
-# Palet: cyan = Subaru (pembuat), violet = Echidna (rasa ingin tahu), sisanya netral gelap.
+# Palet: cyan = Fahlevi (pembuat), violet = Echidna (rasa ingin tahu), sisanya netral gelap.
 INK = "#080a10"
 PANEL = "#0e1119"
 EDGE = "#1f2637"
@@ -199,7 +199,7 @@ def build_clock():
 # ---------------------------------------------------------------- hero.svg
 def build_hero():
     W, H, T = 1000, 300, 15.0
-    d = Doc(W, H, "Natsuki Subaru, Front-End Developer")
+    d = Doc(W, H, "Muhammad Fahlevi, Front-End Developer")
     d.defs.append(f'''<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1018"/><stop offset="1" stop-color="{INK}"/></linearGradient>
 <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{CYAN}" stop-opacity=".55"/><stop offset=".5" stop-color="{EDGE}"/><stop offset="1" stop-color="{VIOLET}" stop-opacity=".55"/></linearGradient>
 <radialGradient id="gc"><stop offset="0" stop-color="{CYAN}" stop-opacity=".16"/><stop offset="1" stop-color="{CYAN}" stop-opacity="0"/></radialGradient>
@@ -224,14 +224,14 @@ def build_hero():
     ]
     for s in specs:
         b.append(butterfly(*s))
-    b.append(f'<text x="56" y="84" font-family="{JP}" font-size="19" fill="{VIOLET}" letter-spacing="7">ナツキ・スバル</text>')
+    b.append(f'<text x="56" y="84" font-family="{JP}" font-size="19" fill="{VIOLET}" letter-spacing="7">ムハンマド・ファレビ</text>')
     nx, ny = 56, 176
-    name = (f'font-family="{SERIF}" font-size="76" font-weight="700" textLength="610" lengthAdjust="spacing"')
-    b.append(f'<text x="{nx}" y="{ny}" {name} fill="{TEXT}">Natsuki Subaru</text>')
+    name = (f'font-family="{SERIF}" font-size="70" font-weight="700" textLength="670" lengthAdjust="spacing"')
+    b.append(f'<text x="{nx}" y="{ny}" {name} fill="{TEXT}">Muhammad Fahlevi</text>')
     for col, dx in ((CYAN, -6), (VIOLET, 6)):
         ev_o = [(0, 0), (14.45, .8), (14.55, 0), (14.65, .8), (14.72, 0)]
         ev_x = [(0, nx), (14.45, nx + dx), (14.55, nx), (14.65, nx + dx * 1.7), (14.72, nx)]
-        b.append(f'<text x="{nx}" y="{ny}" {name} fill="{col}" opacity="0">{anim("opacity", ev_o, T, "discrete")}{anim("x", ev_x, T, "discrete")}Natsuki Subaru</text>')
+        b.append(f'<text x="{nx}" y="{ny}" {name} fill="{col}" opacity="0">{anim("opacity", ev_o, T, "discrete")}{anim("x", ev_x, T, "discrete")}Muhammad Fahlevi</text>')
     b.append(f'<rect x="56" y="216" width="3" height="28" rx="1.5" fill="{CYAN}"/>')
     roles = ["Front-End Developer", "Open Source Enthusiast", "Gagal, belajar, ulangi", "Witch of Greed", "Problem Solver"]
     slot = T / len(roles)
@@ -256,14 +256,14 @@ def build_dialogue():
     W, H, slot = 1000, 196, 6.4
     lines = [
         ("Echidna", "Aku penasaran. Apa yang sebenarnya kamu kejar?"),
-        ("Subaru", "Antarmuka yang terasa hidup. Satu animasi, satu detail."),
+        ("Fahlevi", "Antarmuka yang terasa hidup. Satu animasi, satu detail."),
         ("Echidna", "Dan ketika kodenya rusak?"),
-        ("Subaru", "Aku kembali ke checkpoint terakhir, lalu mencoba lagi."),
+        ("Fahlevi", "Aku kembali ke checkpoint terakhir, lalu mencoba lagi."),
         ("Echidna", "Kamu tidak takut gagal?"),
-        ("Subaru", "Gagal itu murah. Berhenti belajar yang mahal."),
+        ("Fahlevi", "Gagal itu murah. Berhenti belajar yang mahal."),
     ]
     T = slot * len(lines)
-    d = Doc(W, H, "Dialog Echidna dan Subaru tentang cara Subaru bekerja")
+    d = Doc(W, H, "Dialog Echidna dan Fahlevi tentang cara Fahlevi bekerja")
     d.defs.append(f'''<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1018"/><stop offset="1" stop-color="{INK}"/></linearGradient>
 <radialGradient id="gv"><stop offset="0" stop-color="{VIOLET}" stop-opacity=".22"/><stop offset="1" stop-color="{VIOLET}" stop-opacity="0"/></radialGradient>
 <radialGradient id="gc"><stop offset="0" stop-color="{CYAN}" stop-opacity=".18"/><stop offset="1" stop-color="{CYAN}" stop-opacity="0"/></radialGradient>
@@ -271,7 +271,7 @@ def build_dialogue():
     b = d.body
     b.append('<g clip-path="url(#card)">')
     b.append(f'<rect width="{W}" height="{H}" fill="url(#bg)"/>')
-    ev = {"Echidna": [], "Subaru": []}
+    ev = {"Echidna": [], "Fahlevi": []}
     colors = []
     done = []
     plates = []
@@ -291,7 +291,7 @@ def build_dialogue():
                       f'<rect x="44" y="28" width="128" height="34" rx="8" fill="{col}" fill-opacity=".13" stroke="{col}" stroke-opacity=".7"/>'
                       f'<text x="108" y="51" text-anchor="middle" font-family="{SERIF}" font-size="19" font-style="italic" font-weight="700" fill="{col}">{who}</text></g>')
     b.append(f'<circle cx="0" cy="98" r="330" fill="url(#gv)" opacity="0">{anim("opacity", window(ev["Echidna"], T), T, "discrete")}</circle>')
-    b.append(f'<circle cx="0" cy="98" r="330" fill="url(#gc)" opacity="0">{anim("opacity", window(ev["Subaru"], T), T, "discrete")}</circle>')
+    b.append(f'<circle cx="0" cy="98" r="330" fill="url(#gc)" opacity="0">{anim("opacity", window(ev["Fahlevi"], T), T, "discrete")}</circle>')
     cev = [(0, colors[0][1])] + colors
     cev = sorted({t: c for t, c in cev}.items())
     b.append(f'<rect x="0" y="0" width="6" height="{H}" fill="{VIOLET}">{anim("fill", cev, T, "discrete")}</rect>')
