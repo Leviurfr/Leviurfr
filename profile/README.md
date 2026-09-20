@@ -1,6 +1,6 @@
 <!--
   Profil GitHub: Natsuki Subaru (tema Re:Zero).
-  Langkah pemasangan ada di SETUP.md. Cari-ganti semua "USERNAME" dengan username GitHub kamu.
+  Langkah pemasangan ada di SETUP.md. Cari-ganti semua "Leviurfr" dengan Leviurfr GitHub kamu.
 -->
 
 <p align="center">
@@ -43,13 +43,13 @@ Saya membangun antarmuka web dengan fokus pada gerak: animasi, transisi, dan det
 
 <!-- Ganti nama, deskripsi, dan tag proyek di build_assets.py (fungsi build_card), lalu jalankan: python3 build_assets.py -->
 <p align="center">
-  <a href="https://github.com/USERNAME/return-by-death"><img src="assets/card-1.svg" width="100%" alt="Return-by-Death: bug tracker cerdas berbasis AI. Python, FastAPI, AI." /></a>
+  <a href="https://github.com/Leviurfr/return-by-death"><img src="assets/card-1.svg" width="100%" alt="Return-by-Death: bug tracker cerdas berbasis AI. Python, FastAPI, AI." /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/USERNAME/witchs-cult"><img src="assets/card-2.svg" width="100%" alt="Witch's Cult: platform komunitas open-source. React, WebSocket, PostgreSQL." /></a>
+  <a href="https://github.com/Leviurfr/witchs-cult"><img src="assets/card-2.svg" width="100%" alt="Witch's Cult: platform komunitas open-source. React, WebSocket, PostgreSQL." /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/USERNAME/greed-authority"><img src="assets/card-3.svg" width="100%" alt="Greed Authority: CLI produktivitas untuk developer. Node.js, CLI, Docker." /></a>
+  <a href="https://github.com/Leviurfr/greed-authority"><img src="assets/card-3.svg" width="100%" alt="Greed Authority: CLI produktivitas untuk developer. Node.js, CLI, Docker." /></a>
 </p>
 
 <img src="assets/h-statistik.svg" width="100%" alt="Statistik" />
@@ -60,15 +60,6 @@ Saya membangun antarmuka web dengan fokus pada gerak: animasi, transisi, dan det
 </p>
 
 <img src="assets/h-kontribusi.svg" width="100%" alt="Kontribusi" />
-
-<!-- Ular kontribusi dan kalender 3D muncul setelah workflow "Profil" dijalankan sekali. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" width="100%" alt="Ular yang memakan grafik kontribusi GitHub" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Kalender kontribusi GitHub dalam bentuk kota 3D" />
