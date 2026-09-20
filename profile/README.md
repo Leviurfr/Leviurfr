@@ -49,21 +49,21 @@
 
 ---
 
-## 🦋 Tentang Saya
+##  Tentang Saya
 
 > Halo! Saya **Natsuki Subaru** dari dunia coding. Filosofi saya sederhana:
 > **gagal, belajar, ulangi** — persis seperti kemampuan *Return by Death*.
 > Setiap bug adalah kesempatan untuk menjadi lebih kuan
 
-- 🔭 Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
-- 🌱 Sedang belajar **Rust** & **CyberSecurity**
-- 👯 Terbuka untuk kolaborasi **open-source**
-- 💬 Tanya saya tentang **JavaScript, Python, React, Linux**
-- ⚡ Fun fact: *"Satu kali gagal = satu checkpoint baru"* ♾️
+- Sedang fokus pada **web development**, **otomatisasi**, dan **tools produktivitas**
+- Sedang belajar **Rust** & **CyberSecurity**
+- Terbuka untuk kolaborasi **open-source**
+- Tanya saya tentang **JavaScript, Python, React, Linux**
+- Fun fact: *"Satu kali gagal = satu checkpoint baru"* ♾️
 
 ---
 
-## ⚡ Keahlian
+##  Keahlian
 
 <div align="center">
 
@@ -123,6 +123,8 @@
              env:
                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+---
+
      3. Komentar berikut dibuka
 ══════════════════════════════════════════════ -->
 <!--
@@ -156,7 +158,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAC/subaru.gif" width="120" alt="Subaru" />
   <br/><br/>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/Leviurfr"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
   <br/><br/>
-  <i>Dibuat dengan ❤️ & "Return by Death" — © 2026 Natsuki Subaru</i>
+  <i>Created By "Return by Death" — © 2026 Grey A</i>
 </div>
