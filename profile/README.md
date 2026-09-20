@@ -139,7 +139,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/PQU7YOav7pQAAAAC/subaru.gif" width="120" alt="Subaru" />
   <br/><br/>
-  <a href="https://github.com/Leviurfr"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-00f0ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://github.com/Leviurfr"><img src="https://img.shields.io/badge/%E2%AD%90-GitHub%20Saya-#00ff0f?style=for-the-badge&logo=github&logoColor=black" /></a>
   <br/><br/>
   <i>Created By "Return by Death" — © 2026 Grey A</i>
 </div>
