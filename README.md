@@ -1,68 +1,70 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Grey%20Ash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20from%20Indonesia%20🇮🇩&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:1a0505,75:4a0000,100:8b0000&height=280&section=header&text=Grey%20Ash&fontSize=70&fontColor=ff3131&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%2F%2F%20Indonesia&descAlignY=60&descSize=16&descColor=6b7fd7&stroke=ff3131&strokeWidth=1" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Grey+Ash;Frontend+Developer+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+Next.js;Turning+Coffee+into+Code+%E2%98%95;Fun+fact%3A+I+think+I'm+thinking+%F0%9F%A4%94" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=FF3131&center=true&vCenter=true&width=620&lines=%24+whoami+→+Grey+Ash;Crafting+interfaces+with+React+%2B+TypeScript;Dark+theme+is+not+a+choice.+It's+life.;Fun+fact%3A+I+think+I'm+thinking." alt="typing"/>
 </div>
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leviurfr&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile views"/>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/github/followers/Leviurfr?label=Followers&style=for-the-badge&color=7F5AF0"/>
+  <img src="https://komarev.com/ghpvc/?username=Leviurfr&label=VISITORS&color=8b0000&style=flat-square"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=ff3131"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_STATUS-CODING-0a0a0f?style=flat-square&labelColor=8b0000&color=1a237e"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🐍 Contribution Snake (Animasi!)
-
+<!-- ═══════════════ SNAKE ═══════════════ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/github-snake-dark.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/Leviurfr/Leviurfr/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🛠️ Languages & Tools
-
+<!-- ═══════════════ STACK ═══════════════ -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,html,css,nodejs,androidstudio,figma,ai,mysql,oracle,git,github,vscode&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,nodejs,androidstudio,mysql,git&perline=9&theme=dark"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 GitHub Stats (Animasi masuk layar!)
-
+<!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leviurfr&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviurfr&layout=compact&theme=tokyonight&border_radius=12"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Leviurfr&theme=tokyonight&border_radius=12" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leviurfr&show_icons=true&bg_color=0a0a0f&title_color=ff3131&text_color=e8e8e8&icon_color=3949ab&border_color=8b0000&border_radius=8&hide=issues&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviurfr&layout=compact&bg_color=0a0a0f&title_color=ff3131&text_color=e8e8e8&border_color=8b0000&border_radius=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leviurfr&theme=tokyo-night&bg_color=1a1b27&hide_border=true"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leviurfr&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Leviurfr&background=0a0a0f&border=8b0000&stroke=3949ab&ring=ff3131&fire=ff3131&currStreakNum=ffffff&sideNums=e8e8e8&currStreakLabel=ff3131&sideLabels=6b7fd7&dates=6b6b6b" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leviurfr&bg_color=0a0a0f&color=ff3131&line=8b0000&point=3949ab&area=true&area_color=1a237e&hide_border=false&border_color=8b0000" width="95%"/>
+</div>
+
+<!-- ═══════════════ TROPHY ═══════════════ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leviurfr&theme=dracula&no-frame=true&margin-w=12&column=7&title_color=ff3131"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+</div>
+
+<br>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a237e,100:8b0000&height=140&section=footer&text=Grey%20Ash%20©%202026&fontSize=20&fontColor=ff3131&animation=fadeIn"/>
 </div>
